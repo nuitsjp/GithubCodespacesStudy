@@ -49,6 +49,8 @@ Settings Syncを利用するモチベーションについて、もう少し加�
 
 おおむね、つぎのような内容で記載しようと思います。
 
+** 追記メモ：Settings Syncの話なので、ローカルのVSと同じ環境がブラウザで使える話をメインに、ローカルからもつなげるよは最後にする **
+
 1. Codespacesの概要とその魅力について
 2. Hello Codespaces（ブラウザ上のVS CodeでCodespacesの利用）
 3. Local VS Codeからの利用
